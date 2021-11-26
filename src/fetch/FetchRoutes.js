@@ -41,7 +41,7 @@ function FetchRoutes() {
                 <table className="table table-bordered table-striped table-dark">
                     <thead>
                         <tr>
-                            <th>Pilot IDs</th>
+                            <th>Alternate Route IDs</th>
                         </tr>
                     </thead>
                     <tbody>
